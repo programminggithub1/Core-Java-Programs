@@ -67,8 +67,7 @@ These classes demonstrate:
 ## ▶️ How to Run
 
 ### Clone the repository:
-git clone [https://github.com/yourusername/BankManagementSystem.git
-][(https://github.com/yourusername/BankManagementSystem.git)](https://github.com/programminggithub1/Core-Java-Programs.git)
+git clone https://github.com/programminggithub1/Core-Java-Programs.git
 markdown
 Copy code
 
